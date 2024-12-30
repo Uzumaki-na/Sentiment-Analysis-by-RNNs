@@ -1,0 +1,2 @@
+Best Model: conv1d
+Best Accuracy: 0.8689
