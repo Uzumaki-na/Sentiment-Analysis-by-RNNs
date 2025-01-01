@@ -36,12 +36,6 @@ A sophisticated sentiment analysis system implementing state-of-the-art deep lea
 | Simple RNN        | 0.8456   | 0.8412    | 25m 43s      |
 | Conv1D            | 0.8689   | 0.8645    | 32m 18s      |
 
-## Performance Visualization
-### Model Comparison
-![Model Comparison](./sentiment_analysis_custom/model_comparison.png)
-
-### Training Metrics
-![Training Metrics](./sentiment_analysis_custom/training_metrics.png)
 
 ## Key Features
 - **Advanced Preprocessing Pipeline**
